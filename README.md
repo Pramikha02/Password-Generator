@@ -32,7 +32,4 @@ If you'd like to contribute to this project, please follow these steps:
 5. Push your changes to your fork on GitHub.
 6. Open a pull request to the original repository.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 
